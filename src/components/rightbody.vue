@@ -1,6 +1,6 @@
 <template>
   <div class="right">
-    <span class="Opretprofil">Profile details please</span>
+    <span class="Opretprofil">Ajeet's Profile Facebook Page</span>
     <br />
     <span class="asap">It works quickly.</span>
 
