@@ -3,11 +3,9 @@
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
-trigger:
-- main
-
 pool:
-  vmImage: ubuntu-latest
+  name: Azure Pipelines
+  demands: npm
 
 steps:
 - task: Npm@1
@@ -30,5 +28,3 @@ steps:
 
 - task: PublishBuildArtifacts@1
   displayName: 'Publish artifacts: drop'
-
-
