@@ -1,6 +1,6 @@
 <template>
   <div class="right">
-    <span class="Opretprofil">Ajeet's Sign up Page</span>
+    <span class="Opretprofil">Ajeet Sharma's Sign up Page</span>
     <br />
     <span class="asap">It works quickly.</span>
 
