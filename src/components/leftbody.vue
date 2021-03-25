@@ -3,7 +3,7 @@
     <div class="left">
       <span
         class="text"
-      >Facebook helps you connect people around the world.</span>
+      >Fameboo helps you connect people around the world.</span>
       <img
         class="socialimg"
         src="https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/mdFUMX-w0Fu.png"
